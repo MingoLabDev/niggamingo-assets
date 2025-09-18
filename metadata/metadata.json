@@ -1,11 +1,16 @@
 {
-  "name": "NiggaMingo",
+"chainId": 101,
+  "address": "8sqJofccoAiuhY3AYJiZf4kFsjEEaUWGvMC4TLcUpump",
   "symbol": "Mingo",
-  "description": "Mingo is the voice of the people — raw, real, and unbreakable 💎. More than a coin, it’s a destiny written on Solana’s chain 🔥🌍",
+  "name": "NiggaMingo",
+  "decimals": 6,
   "image": "https://raw.githubusercontent.com/MingoLabDev/niggamingo-ssets/refs/heads/main/logos/Mingo.png",
   "external_url": "https://niggamingo.vip",
-  "extensions": {
+    "tags": ["Mingo", "Meme", "Pump.fun"],
+"extensions": {
+    "website": "https://niggamingo.vip",
     "twitter": "https://x.com/NIGGAMINGOW?s=09",
-    "telegram": "https://t.me/NIGGAMINGOOFFICIAL"
+    "telegram": "https://t.me/NIGGAMINGOOFFICIAL",
+    "description": "Mingo is the voice of the people — raw, real, and unbreakable 💎. More than a coin, it’s a destiny written on Solana’s chain 🔥🌍"
   }
 }
